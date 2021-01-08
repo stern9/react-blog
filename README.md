@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## JSON Server
 
-Watch db.json and wrap it with API endpoints
+Watch db.json and wrap it with API endpoints.\
 npx json-server --watch data/db.json --port 8000
 http://localhost:8000/blogs
 
